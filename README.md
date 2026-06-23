@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Idris :)
 
-<!--
-**IdrisMagdiiev/IdrisMagdiiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught quant researcher focused on systematic trading, options,
+and volatility arbitrage. Building a portfolio of strategy research
+while working toward graduate study in quantitative finance.
 
-Here are some ideas to get you started:
+**Core focus**
+- 📈 Systematic trading strategies (momentum, mean-reversion)
+- 🎲 Options & volatility arbitrage
+- 🤖 Currently experimenting with integrating ML into my models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Also**
+I run independent equity research and publish stock pitches when I
+invest my own capital — full valuation work (DCF, DDM, Monte Carlo,
+scenario analysis). Systematic trading and volatility are my main
+interest, fundamental research is something I do on the side for fun.
+
+**Tools**
+Python · pandas · NumPy · matplotlib
